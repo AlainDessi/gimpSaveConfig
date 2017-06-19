@@ -1,0 +1,39 @@
+# settings
+
+(GimpColorizeConfig "2017-06-19 08:53:50"
+    (time 1497855230)
+    (hue 0.500000)
+    (saturation 0.000000)
+    (lightness 0.000000))
+(GimpColorizeConfig "2017-06-19 08:53:17"
+    (time 1497855197)
+    (hue 0.500000)
+    (saturation 0.500000)
+    (lightness -0.769585))
+(GimpColorizeConfig "2017-06-18 21:15:43"
+    (time 1497813343)
+    (hue 0.500000)
+    (saturation 0.500000)
+    (lightness 1.000000))
+(GimpColorizeConfig "2017-06-18 21:04:08"
+    (time 1497812648)
+    (hue 0.500000)
+    (saturation 0.500000)
+    (lightness -1.000000))
+(GimpColorizeConfig "2017-06-11 13:59:31"
+    (time 1497182371)
+    (hue 0.500000)
+    (saturation 0.500000)
+    (lightness 0.000000))
+(GimpColorizeConfig "2017-06-11 13:54:36"
+    (time 1497182076)
+    (hue 0.824074)
+    (saturation 0.000000)
+    (lightness 1.000000))
+(GimpColorizeConfig "2017-06-11 13:53:32"
+    (time 1497182012)
+    (hue 0.138889)
+    (saturation 1.000000)
+    (lightness 0.462963))
+
+# end of settings

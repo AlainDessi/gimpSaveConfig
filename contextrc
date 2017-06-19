@@ -1,0 +1,13 @@
+# GIMP user context
+
+(tool "gimp-move-tool")
+(paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.341176 0.341176 0.341176))
+(brush "2. Hardness 050")
+(dynamics "Pressure Opacity")
+(pattern "Pine")
+(gradient "PP vers AP (RVB)")
+(palette "Default")
+(font "Sans")
+
+# end of user context

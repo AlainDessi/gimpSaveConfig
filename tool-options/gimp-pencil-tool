@@ -1,0 +1,8 @@
+# GIMP gimp-pencil-tool options
+
+(brush "Presse-papiers")
+(dynamics "Dynamics Off")
+(gradient "PP vers AP (bord dur)")
+(palette "Default")
+
+# end of gimp-pencil-tool options

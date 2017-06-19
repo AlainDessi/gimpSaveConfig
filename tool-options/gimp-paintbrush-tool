@@ -1,0 +1,8 @@
+# GIMP gimp-paintbrush-tool options
+
+(brush "Presse-papiers")
+(dynamics "Dynamics Off")
+(gradient "PP vers AP (RVB)")
+(palette "Default")
+
+# end of gimp-paintbrush-tool options

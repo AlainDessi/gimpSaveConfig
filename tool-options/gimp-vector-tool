@@ -1,0 +1,9 @@
+# GIMP gimp-vector-tool options
+
+(brush "Presse-papiers")
+(dynamics "Dynamics Off")
+(pattern "Pine")
+(gradient "PP vers AP (bord dur)")
+(palette "Default")
+
+# end of gimp-vector-tool options
